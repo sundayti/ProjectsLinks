@@ -12,6 +12,7 @@
 - `REST`
 - `Swagger`
 - `Docker`
+- `nginx`
 
 ### [Управление животными зоопарка](https://github.com/sundayti/zoo)
 
