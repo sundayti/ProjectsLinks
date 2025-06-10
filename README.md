@@ -11,6 +11,7 @@
 - `gRPC`
 - `REST`
 - `Swagger`
+- `Docker`
 
 ### [Управление животными зоопарка](https://github.com/sundayti/zoo)
 
